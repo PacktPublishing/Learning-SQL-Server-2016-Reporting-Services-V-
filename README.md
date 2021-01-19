@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learning-SQL-Server-2016-Reporting-Services-V-
 This is the code repository for [SQL Server 2016 Database Reporting [Video]](https://prod.packtpub.com/in/big-data-and-business-intelligence/sql-server-2016-database-reporting-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
